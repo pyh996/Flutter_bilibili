@@ -16,10 +16,13 @@ flutter emulators --launch  虚拟机名称
 ### 使用虚拟机调试(Nexus_6_API_29)
 flutter emulators --launch  虚拟机名称
 
-
+ 
  
 ### 如果是在Vscode或者Android Studio上开启,记得使用debug模式
 
 
 ### --no-sound-null-safety  启动命令配置空安全,非必须
 
+ 
+<img width="754" alt="WechatIMG435" src="https://user-images.githubusercontent.com/38428992/145833773-bf3f2d48-9229-4a60-99a0-7b681a955b15.png">
+ 
