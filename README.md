@@ -17,7 +17,7 @@ flutter emulators --launch  虚拟机名称
 flutter emulators --launch  虚拟机名称
 
 
-
+ 
 ### 如果是在Vscode或者Android Studio上开启,记得使用debug模式
 
 
