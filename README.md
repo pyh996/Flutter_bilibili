@@ -1,16 +1,20 @@
-# flutterapptest
+# Flutter框架打造一个bilibi在线视频的App
 
-A new Flutter application.
+# 使用方法
+### 启动命令
+flutter run
 
-## Getting Started
+### 查看本地的虚拟机
+flutter emulators
 
-This project is a starting point for a Flutter application.
+### 使用虚拟机调试(Nexus_6_API_29)
+flutter emulators --launch  虚拟机名称
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### 使用虚拟机调试(Nexus_6_API_29)
+flutter emulators --launch  虚拟机名称
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
