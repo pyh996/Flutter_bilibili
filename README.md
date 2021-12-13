@@ -17,6 +17,4 @@ flutter emulators --launch  虚拟机名称
 flutter emulators --launch  虚拟机名称
 
 
-
-
-
+<img width="754" alt="WechatIMG435" src="https://user-images.githubusercontent.com/38428992/145833773-bf3f2d48-9229-4a60-99a0-7b681a955b15.png">
