@@ -9,6 +9,7 @@ import 'package:flutterapptest/http/request/test_request.dart'; // Add this line
 import 'dart:convert';
 
 import 'package:flutterapptest/module/owner.dart';
+import 'package:flutterapptest/page/login_page.dart';
 import 'package:flutterapptest/page/registration_page.dart';
 import 'package:flutterapptest/util/color.dart';
 
@@ -29,7 +30,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: white,
       ),
 //      home: const MyHomePage(title: '欢迎来到Flutter的世界~'),
-      home: RegistrationPage(),
+//      home: RegistrationPage(),
+      home: LoginPage(),
     );
   }
 }
